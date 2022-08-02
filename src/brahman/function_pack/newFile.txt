@@ -1,1 +1,3 @@
-document is changed
+document 
+
+reset opation is enable
