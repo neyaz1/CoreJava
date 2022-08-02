@@ -1,3 +1,3 @@
 document 
 
-git rebase --hard <Remote repository>
+git pull command
